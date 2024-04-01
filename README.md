@@ -1,4 +1,4 @@
-![image](https://github.com/a1886557/pit/assets/161546263/54f3180a-7298-4a41-9dfd-86acb5bb52e1)## Binary search pseudocode
+## Binary search pseudocode
 ![](/Images/20240401100413.png)
 
 ## Selection sort pseudocode
@@ -54,6 +54,7 @@
 
 **avoid duplicate entries and infinite loops**
 ![](/Images/20240401123220.png)
+![image](https://github.com/a1886557/pit/assets/161546263/54f3180a-7298-4a41-9dfd-86acb5bb52e1)
 
 **Dijkstra’s algorithm  
 shortest path != cheapest path**
