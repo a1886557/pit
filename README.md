@@ -41,6 +41,7 @@
 **Breadth-first search/breadth first search (BFS)**
 ![](/Images/20240401123200.png)
 ![](/Images/20240401123207.png)
+![](/Images/BFS without Loop.PNG)
 
 **avoid duplicate entries and infinite loops**
 ![](/Images/20240401123220.png)
